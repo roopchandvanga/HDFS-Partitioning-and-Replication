@@ -1,4 +1,4 @@
-# HDFS Partitioning and Replication 
+# HDFS Partitioning and Replication (Loan Data)
 
 This project demonstrates how HDFS (Hadoop Distributed File System) partitions and replicates data for fault tolerance and scalability. A mini HDFS cluster is deployed using Docker, and Python is used to interact with the system through both the WebHDFS API and PyArrow. The project also explores the impact of replication on fault tolerance and space efficiency by simulating node failure.
 
