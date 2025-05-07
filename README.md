@@ -75,7 +75,8 @@ This project demonstrates how HDFS (Hadoop Distributed File System) partitions a
 
   
 
-## 🧾 Project Questions
+## 💻 Jupyter Notebook Tasks
+All answers are recorded in `p5.ipynb` with corresponding question headers as comments (e.g., `#q1`, `#q2`, ...).
 
 ### Part 1: Deployment and Data Upload
 
